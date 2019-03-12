@@ -1,2 +1,2 @@
 # hello-world
-wow
+They can be considered as drafts.
